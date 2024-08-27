@@ -2,7 +2,7 @@
 In this repository my computer vision research papers are provided
 
 ### Scopus/WoS
-1. Zhuravlev I., Melnikov V., Rudometova M., A Framework for Predicting Tags and Post Rating on Social Networks //Artificial intelligence and natural language conference. – Almaty : Springer Nature Switzerland, 2024 (публикация представлена на конференции, финальный этап рецензирования) 
+1. Zhuravlev I., Melnikov V., Rudometova M., A Framework for Predicting Tags and Post Rating on Social Networks //Artificial intelligence and natural language conference. – Almaty : Springer Nature Switzerland, 2024 (публикация представлена на конференции, финальный этап рецензирования) [paper](https://github.com/zhursvlevy/papers/blob/main/assets/A_Framework_for_Predicting_Tags_and_Post_Rating_on_Social_Networks_SLNC_fixed.pdf)
 2. Zhuravlev I., Makarenko A. Image Segmentation Algorithms Composition for Obtaining Accurate Masks of Tomato Leaf Instances //Russian Supercomputing Days. – Cham : Springer Nature Switzerland, 2023. – С. 178-194. [paper](https://github.com/zhursvlevy/papers/blob/main/assets/Image_Segmentation_Algorithms_Composition_for_Obtaining_Accurate_Masks_of_Tomato_Leaf_Instances.pdf)
 ### Выступления на конференциях
 1. Журавлев И. И., Мельников В. В., Рудометова М.О. Предсказание рейтинга поста социальной сети методами машинного обучения //Студенческая научная весна. – 2024.
